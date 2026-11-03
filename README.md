@@ -6,10 +6,8 @@ Lead Applied AI Engineer in FinTech, based in Valencia, Spain. I build AI produc
 
 | Project | What it does |
 |---|---|
-| [adactus](https://github.com/ohernandezdev/adactus) | Claude Code plugin that blocks lazy check-ins and fake completions with a Stop hook, judged by a small System One model. |
 | [interactive-cli](https://github.com/ohernandezdev/interactive-cli) | MCP server that lets AI coding agents drive interactive CLI programs through a PTY and headless xterm. |
 | [afkode](https://github.com/ohernandezdev/afkode) | In-game overlay to supervise Claude Code, OpenCode or Codex while you play. Tauri + xterm.js. |
-| [karpathy-output](https://github.com/ohernandezdev/karpathy-output) | Agent skill that turns LLM dumps into checkable STE prose, diagrams, interactive HTML or an explainer-video plan. |
 | [tars-notch](https://github.com/ohernandezdev/tars-notch) | Your MacBook notch shows what each Claude Code or Copilot CLI session is doing, and lets you approve from it. |
 | [wtkill](https://github.com/ohernandezdev/wtkill) | Find and clean stale git worktrees across all your repos. TUI for humans, JSON for agents. |
 
